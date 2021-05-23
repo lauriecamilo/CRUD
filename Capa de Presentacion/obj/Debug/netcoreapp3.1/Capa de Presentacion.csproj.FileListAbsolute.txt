@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de Presentacion.exe
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de Presentacion.deps.json
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de Presentacion.runtimeconfig.json
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de Presentacion.runtimeconfig.dev.json
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de Presentacion.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de Presentacion.pdb
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de Datos.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de negocios.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de negocios.pdb
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\bin\Debug\netcoreapp3.1\Capa de Datos.pdb
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa_de_Presentacion.Form1.resources
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.AssemblyInfo.cs
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.csproj.CopyComplete
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.dll
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.pdb
+C:\Users\User\Desktop\CRUD\Capa de Presentacion\obj\Debug\netcoreapp3.1\Capa de Presentacion.genruntimeconfig.cache

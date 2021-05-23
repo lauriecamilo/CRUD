@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\CRUD\Capa de negocios\bin\Debug\netcoreapp3.1\Capa de negocios.deps.json
+C:\Users\User\Desktop\CRUD\Capa de negocios\bin\Debug\netcoreapp3.1\Capa de negocios.dll
+C:\Users\User\Desktop\CRUD\Capa de negocios\bin\Debug\netcoreapp3.1\Capa de negocios.pdb
+C:\Users\User\Desktop\CRUD\Capa de negocios\bin\Debug\netcoreapp3.1\Capa de Datos.dll
+C:\Users\User\Desktop\CRUD\Capa de negocios\bin\Debug\netcoreapp3.1\Capa de Datos.pdb
+C:\Users\User\Desktop\CRUD\Capa de negocios\obj\Debug\netcoreapp3.1\Capa de negocios.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CRUD\Capa de negocios\obj\Debug\netcoreapp3.1\Capa de negocios.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CRUD\Capa de negocios\obj\Debug\netcoreapp3.1\Capa de negocios.AssemblyInfo.cs
+C:\Users\User\Desktop\CRUD\Capa de negocios\obj\Debug\netcoreapp3.1\Capa de negocios.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CRUD\Capa de negocios\obj\Debug\netcoreapp3.1\Capa de negocios.csproj.CopyComplete
+C:\Users\User\Desktop\CRUD\Capa de negocios\obj\Debug\netcoreapp3.1\Capa de negocios.dll
+C:\Users\User\Desktop\CRUD\Capa de negocios\obj\Debug\netcoreapp3.1\Capa de negocios.pdb

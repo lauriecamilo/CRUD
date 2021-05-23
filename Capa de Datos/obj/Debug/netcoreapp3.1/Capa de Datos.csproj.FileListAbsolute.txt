@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\CRUD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CRUD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CRUD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.AssemblyInfo.cs
+C:\Users\User\Desktop\CRUD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CRUD\Capa de Datos\bin\Debug\netcoreapp3.1\Capa de Datos.deps.json
+C:\Users\User\Desktop\CRUD\Capa de Datos\bin\Debug\netcoreapp3.1\Capa de Datos.dll
+C:\Users\User\Desktop\CRUD\Capa de Datos\bin\Debug\netcoreapp3.1\Capa de Datos.pdb
+C:\Users\User\Desktop\CRUD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.dll
+C:\Users\User\Desktop\CRUD\Capa de Datos\obj\Debug\netcoreapp3.1\Capa de Datos.pdb
